@@ -12,11 +12,13 @@ body {
   .heading {
     text-align: center;
     font-size: 4rem;
+    padding-top: 20px;
   }
   
   .logo {
     height: 60px;
     padding-right: 0px;
+   
   }
   
   /* --------- Game layout */
