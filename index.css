@@ -20,20 +20,7 @@ body {
   }
   
   /* --------- Game layout */
-  
-  .game-area {
-    background-color: #E6ECF0;
-    box-sizing: border-box;
-    width: 85%;
-    height: 65vh;
-    min-height: 100px;
-    max-height: 480px;
-    max-width: 830px;
-    margin-left: auto;
-    margin-right: auto;
-    padding: 1%;
-  }
-  
+   
   .question-area {
     width: 50%;
     font-size: 2rem;
