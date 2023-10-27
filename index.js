@@ -103,12 +103,10 @@ let settings = {
   function calculateCorrectAnswer() {
   
     // Gets the operands (the numbers) and the operator (plus, minus etc)
-    // directly from the DOM
-      console.log('In here')
+    // directly from the DOM//
     let operand1 = parseInt(document.getElementById("operand1").textContent);
     let operand2 = parseInt(document.getElementById("operand2").textContent);
     let operator = document.getElementById("operator").textContent;
-      console.log('*****', operator, operand1, operand2)
     if (operator === "+") {
       return [operand1 + operand2, "addition"];
     }  else {
