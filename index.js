@@ -69,7 +69,7 @@ let settings = {
   
     // BOOM
     if (secondsToDisplay <= 0) {
-      countdownHTML.innerHTML = '<span class="message">💣💣 Booom! 💣💣 Game Over<span>'
+      countdownHTML.innerHTML = '<span class="message">💣💣 Booom! 💣💣 Game Over - Reastart the Game<span>'
     }
   }
   
@@ -92,7 +92,7 @@ let settings = {
       alert("Hey! You got it right! :D");
       incrementScore();
     } else {
-      alert(`Awwww...you answered ${userAnswer}. The correct answer was ${calculatedAnswer[0]}!`);
+      alert(`Awwww...you have not answered ${userAnswer}. The correct answer was ${calculatedAnswer[0]}!`);
       incrementWrongAnswer();
     }
   
@@ -141,5 +141,14 @@ let settings = {
   
   }
   
- 
+  document.getElementById("myBtn").disabled = true;
+  var x = document.getElementById("myBtn").disabled;
+
+  function disableBtn() {
+    document.getElementById("myBtn").disabled = true;
+}
+
+function enableBtn() {
+    document.getElementById("myBtn").disabled = false;
+}
   
