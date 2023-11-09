@@ -151,4 +151,3 @@ function disableBtn() {
 function enableBtn() {
   document.getElementById("myBtn").disabled = false;
 }
-

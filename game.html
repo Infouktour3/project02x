@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-  <html lang="en-US">
+<html lang="en">
   <head>
     <meta charset="utf-8" >
     <meta name="viewport" content="width=device-width" >
@@ -9,37 +9,32 @@
     <link href="index.css" rel="stylesheet" type="text/css" >
   </head>
   <body>
-  <h1 class="heading">
-    💣BOMB - QUIZ💣 </h1>
-    <div id="countdown">
-      Countdown:
-      <span id="curentCountdown"></span>
-    </div>
-    <div class="question-area">
-      <span id="operand1">0</span>
-      <span id="operator">x</span>
-      <span id="operand2">0</span>
-      <span>=</span>
-      <input id="answer-box" type="number">
-    </div>
-  
-  <button data-type="submit" class="btn btn--gray submit">Submit Answer</button>
-  
-  <div class="score-area">
-    <p class="scores">Correct Answers: <span id="score">0</span></p>
-    <p class="scores">Incorrect Answers: <span id="incorrect">0</span></p>
-  </div>
- 
-
-<script>
-function disableBtn() {
-  document.getElementById("myBtn").disabled = true;
-}
-
-function enableBtn() {
-  document.getElementById("myBtn").disabled = false;
-}
-</script>
+    <main>
+      <h1 class="heading">
+        💣BOMB - QUIZ💣 </h1>
+        <div id="countdown">
+          Countdown:
+          <span id="curentCountdown"></span>
+        </div>
+        <!-- The area where the question is displayed to the user -->
+        <div class="question-area">
+          <span id="operand1">0</span>
+          <span id="operator">x</span>
+          <span id="operand2">0</span>
+          <span>=</span>
+          <input id="answer-box" type="number"> 
+        </div>
+    
+      <!-- The buttons with which you interact with the user -->
+      <button data-type="submit" class="btn btn--gray submit">Submit Answer</button>
+      <button data-type="restart" hidden class="btn btn--gray restart">Restart Game</button>
+    
+      <!-- The user's score -->
+      <div class="score-area">
+        <p class="scores">Correct Answers: <span id="score">0</span></p>
+        <p class="scores">Incorrect Answers: <span id="incorrect">0</span></p>
+      </div>
+    </main>
     <script src="index.js"></script>
   </body>
 </html>
