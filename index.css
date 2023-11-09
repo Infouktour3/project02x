@@ -81,7 +81,7 @@ body {
   font-family: "Raleway", sans-serif;
   text-transform: uppercase;
   letter-spacing: 1.2px;
-  color: white;
+  color: rgb(207, 159, 159);
 }
 
 .btn:focus {
@@ -129,14 +129,15 @@ left: -0.5em;
 }
 
 .btn--orange {
-  border-color: orange;
-  color: orange;
+  color: rgb(0, 47, 255);
+  background-color: #f4f59f;
+  border-radius: 20px;
 }
 
 .btn--orange:active,
 .btn--orange:hover {
   background-color: darkorange;
-  color: white;
+  color: rgb(189, 181, 181);
 }
 
 .btn--red {
@@ -161,15 +162,16 @@ left: -0.5em;
   color: white;
 }
 
-.btn--gray {
+.btn--green {
+  border-color: darkgreen;
   margin-top: 25px;
-  background-color: #445361;
-  border: 1px transparent;
+  background-color: #b0f59f;
+  
   border-radius: 20px;
 }
 
-.btn--gray:active,
-.btn--gray:hover {
+.btn--green:active,
+.btn--green:hover {
   background-color: #0d1013;
 }
 

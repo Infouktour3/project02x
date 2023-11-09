@@ -1,7 +1,7 @@
 let settings = {
   countDownDate: null,
   countDownInterval: null,
-  timeout: 22
+  timeout: 16,
 }
 document.addEventListener("DOMContentLoaded", function() {
   let buttons = document.getElementsByTagName("button");
