@@ -117,56 +117,31 @@ position: relative;
 left: -0.5em;
 }
 
-.btn--blue {
-  border-color: blue;
-  color: blue;
-}
-
-.btn--blue:active,
-.btn--blue:hover {
-  background-color: darkblue;
-  color: white;
-}
 
 .btn--orange {
   color: rgb(0, 47, 255);
-  background-color: #f4f59f;
+  background-color: yellow;
   border-radius: 20px;
 }
 
 .btn--orange:active,
 .btn--orange:hover {
-  background-color: darkorange;
+  background-color: orange;
   color: rgb(189, 181, 181);
 }
 
-.btn--red {
-  border-color: red;
-  color: red;
-}
-
-.btn--red:active,
-.btn--red:hover {
-  background-color: darkred;
-  color: white;
-}
-
-.btn--green {
-  border-color: green;
-  color: green;
-}
 
 .btn--green:active,
 .btn--green:hover {
-  background-color: darkgreen;
+  background-color: rgb(100, 45, 0);
   color: white;
 }
 
 .btn--green {
-  border-color: darkgreen;
+  background-color: yellow;
+  border-color: red;
   margin-top: 25px;
-  background-color: #b0f59f;
-  
+  color: rgb(255, 72, 0);
   border-radius: 20px;
 }
 
