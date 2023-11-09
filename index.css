@@ -98,7 +98,7 @@ body {
   border: 10px solid;
   width: 100px;
   height: 100px;
-  font-size: 3.2rem;
+  font-size: 4rem;
   margin: 0 30px;
   transition: all 0.5s;
   margin-bottom: 20px;
@@ -138,10 +138,10 @@ left: -0.5em;
 }
 
 .btn--green {
-  background-color: yellow;
+  background-color: orange;
   border-color: red;
   margin-top: 25px;
-  color: rgb(255, 72, 0);
+  color: rgb(80, 73, 70);
   border-radius: 20px;
 }
 
