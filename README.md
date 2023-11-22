@@ -4,11 +4,9 @@ View the live project here. (https://8000-infouktour3-project02x-mwfb73gx0ws.ws-
 
 This is the main Bomb Math  website. It is designed to be responsibe on a range of devices, making it easy to use the game for the reader and visitors.
 
-
-
 User Experience (UX)
 User stories
-Looked into Balsamiq to have an idea and after I have carried on the prject with word file converted in pjg imageimageimage
+Looked into Balsamiq to have an idea and after I have carried on the prject with word file converted in pjg image xxx
 
 First Time Visitor Goals
 The website is made in a very clear and easy way to understand the game with a great background colour to show the other function of the game in a fast and intuitive way..
@@ -16,9 +14,9 @@ The User will be able to easily explore the page and read the number result and 
 the visitor can decide when to start to play and when restart a game again.
 
 Returning Visitor Goals
-Returning Visitor wants to find a good game to be entertained something that keep their attention and excitment which in turn the site is made to enjoy the user.
+Returning Visitor wants to find a good game to be entertained something that keep their attention and excitment high which in turn the site is made to enjoy the user.
 Returning Visitor like to see something simple and understand the game at the first glance, 
-they do not want to be bored to understand how waork the game otherwise they will give up, and it helps the visitor to return again.
+they do not want to be bored on understanding how work the game otherwise they will give up, and it helps the visitor to return again.
 
 Frequent User Goals
 The user want something fun and colourful with some images that help to get to know the game without reading long information.
@@ -72,7 +70,7 @@ Balsamiq was visited to gather some idea on starting the design process even if 
 jQuery:
 jQuery find some information in bootstrap and in code istitue
 (https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+CSE101+2020_Q2/courseware/be0e510a3aca4bccb6e0bba4cf7cf06b/b47eaee24847486eb4424dfa29890cc0/)
-on use to have a responsive website for different devices. I have also used different source like youtube and W3school sites to improve the responsiveness of the website.
+on use to have a responsive website for different devices. I have also used different source like youtube and W3school sites (https://www.w3schools.com/) to improve the responsiveness of the website.
 
 Testing
 I have tested the website on W3C Markup Validator, W3C CSS Validator  and JS Validator, the services were used to validate every page of html, css and js.
