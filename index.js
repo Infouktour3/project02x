@@ -2,12 +2,12 @@ let settings = {
   countDownDate: null,
   countDownInterval: null,
   timeout: 16,
-}
+};
 document.addEventListener("DOMContentLoaded", function() {
   let buttons = document.getElementsByTagName("button");
 
   let countdownHTML = document.getElementById("curentCountdown");
-  countdownHTML.innerHTML = settings.timeout
+  countdownHTML.innerHTML = settings.timeout;
 
   for (let button of buttons) {
     button.addEventListener("click", function() {
@@ -47,36 +47,36 @@ function runGame(gameType) {
     throw `Unknown game type ${gameType}, aborting!`;
   }
 
-  stopCountdown()
+  stopCountdown();
 
-  settings.countDownDate = new Date()  
-  settings.countDownInterval = setInterval(countdownDateCalculate, 1000)
+  settings.countDownDate = new Date() ;
+  settings.countDownInterval = setInterval(countdownDateCalculate, 1000);
 }
 
 function countdownDateCalculate() {
   let currentDateTime = new Date().getTime();
-  let differenceBetweenCurrentDate = settings.countDownDate - currentDateTime
+  let differenceBetweenCurrentDate = settings.countDownDate - currentDateTime;
   
-  let maxSeconds = (settings.timeout * 1000) * 60
-  let timeoutSeconds = Math.abs(Math.floor((differenceBetweenCurrentDate % maxSeconds) / 1000))
+  let maxSeconds = (settings.timeout * 1000) * 60;
+  let timeoutSeconds = Math.abs(Math.floor((differenceBetweenCurrentDate % maxSeconds) / 1000));
 
   let countdownHTML = document.getElementById("curentCountdown");
 
-  let secondsToDisplay = settings.timeout - timeoutSeconds
+  let secondsToDisplay = settings.timeout - timeoutSeconds;
 
-  countdownHTML.innerHTML = secondsToDisplay
-  countdownHTML.setAttribute("value", secondsToDisplay)
+  countdownHTML.innerHTML = secondsToDisplay;
+  countdownHTML.setAttribute("value", secondsToDisplay);
 
   // BOOM
   if (secondsToDisplay <= 0) {
-    countdownHTML.innerHTML = '<span class="message">💣💣 Booom! 💣💣 Game Over - Reastart the Game<span>'
+    countdownHTML.innerHTML = '<span class="message">💣💣 Booom! 💣💣 Game Over - Reastart the Game<span>';
   }
 }
 
 function stopCountdown() {
-  clearInterval(settings.countDownInterval)
+  clearInterval(settings.countDownInterval);
   let countdownHTML = document.getElementById("curentCountdown");
-  countdownHTML.innerHTML = ""
+  countdownHTML.innerHTML = "";
 }
 
 function checkAnswer() {

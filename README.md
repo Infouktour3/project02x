@@ -1,6 +1,6 @@
 # project02x
 BOMB QUIZ
-View the live project here. (https://github.com/Infouktour3/project02x")
+View the live project here. (https://8000-infouktour3-project02x-mwfb73gx0ws.ws-eu106.gitpod.io/game.html)
 
 This is the main Bomb Math  website. It is designed to be responsibe on a range of devices, making it easy to use the game for the reader and visitors.
 

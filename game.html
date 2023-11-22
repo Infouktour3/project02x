@@ -1,42 +1,47 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8" >
-    <meta name="viewport" content="width=device-width" >
-    <title>💣Bomb Quiz💣!</title>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>💣Bomb Quiz💣!</title>
   <link href="https://fonts.googleapis.com/css?family=Raleway%7CRighteous" rel="stylesheet">
-  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
-    <link href="index.css" rel="stylesheet" type="text/css" >
-  </head>
-   <!-- Body design with the countdown -->
-  <body>
-    <main>
-      <h1 class="heading">
-        💣BOMB - QUIZ💣 </h1>
-        <div id="countdown">
-          Countdown:
-          <span id="curentCountdown"></span>
-        </div>
-        <!-- The area where the question is displayed to the user -->
-        <div class="question-area">
-          <span id="operand1">0</span>
-          <span id="operator">x</span>
-          <span id="operand2">0</span>
-          <span>=</span>
-          <input id="answer-box" type="number"> 
-        </div>
-    
-      <!-- The buttons with which you interact with the user -->
-      <button data-type="submit" class="btn btn--green submit">Submit Answer</button>
-      <button data-type="restart" class="btn btn--orange restart"><a href="game.html">Restart Game</a></button>
-      
-    
-      <!-- The user's score -->
-      <div class="score-area">
-        <p class="scores">Correct Answers: <span id="score">0</span></p>
-        <p class="scores">Incorrect Answers: <span id="incorrect">0</span></p>
-      </div>
-    </main>
-    <script src="index.js"></script>
-  </body>
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css"
+    integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+  <link href="index.css" rel="stylesheet" type="text/css">
+</head>
+<!-- Body design with the countdown -->
+
+<body>
+  <main>
+    <h1 class="heading">
+      💣BOMB - QUIZ💣 </h1>
+    <div id="countdown">
+      Countdown:
+      <span id="curentCountdown"></span>
+    </div>
+    <!-- The area where the question is displayed to the user -->
+    <div class="question-area">
+      <span id="operand1">0</span>
+      <span id="operator">x</span>
+      <span id="operand2">0</span>
+      <span>=</span>
+      <input id="answer-box" type="number">
+    </div>
+
+    <!-- The buttons with which you interact with the user -->
+    <button data-type="submit" class="btn btn--green submit">Submit Answer</button>
+    <button data-type="restart" class="btn btn--orange restart">
+      <a href="index.html">Restart Game</a></button>
+
+
+    <!-- The user's score -->
+    <div class="score-area">
+      <p class="scores">Correct Answers: <span id="score">0</span></p>
+      <p class="scores">Incorrect Answers: <span id="incorrect">0</span></p>
+    </div>
+  </main>
+  <script src="index.js"></script>
+</body>
+
 </html>
