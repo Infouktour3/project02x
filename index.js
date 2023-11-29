@@ -1,3 +1,4 @@
+// setting up a time countdown for the user
 let settings = {
   countDownDate: null,
   countDownInterval: null,
@@ -19,7 +20,7 @@ document.addEventListener("DOMContentLoaded", function() {
       }
     });
   }
-
+// Result on the answered gave in the bo
   document.getElementById("answer-box").addEventListener("keydown", function(event) {
     if (event.key === "Enter") {
       checkAnswer();
@@ -44,8 +45,8 @@ function runGame(gameType) {
     displayAdditionQuestion(num1, num2);
   }
 
+  // Once the countdown is termined the bottom will be disableded
   stopCountdown();
-
   settings.countDownDate = new Date() ;
   settings.countDownInterval = setInterval(countdownDateCalculate, 1000);
 }
@@ -105,7 +106,7 @@ function checkAnswer() {
 
 function calculateCorrectAnswer() {
 
-  // Gets the operands (the numbers) and the operator (plus, minus etc)
+  // Gets the operands (the numbers) and the operator math addition
   // directly from the DOM//
   let operand1 = parseInt(document.getElementById("operand1").textContent);
   let operand2 = parseInt(document.getElementById("operand2").textContent);
