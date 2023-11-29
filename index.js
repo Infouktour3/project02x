@@ -70,7 +70,7 @@ function countdownDateCalculate() {
   countdownHTML.innerHTML = secondsToDisplay;
   countdownHTML.setAttribute("value", secondsToDisplay);
 
-  // BOOM
+  // BOOM shows when the game is over
   if (secondsToDisplay <= 0) {
     countdownHTML.innerHTML = '<span class="message">💣💣 Booom! 💣💣 Game Over - Restart the Game<span>';
   disableBtn();}
@@ -136,12 +136,12 @@ function incrementWrongAnswer() {
 
 }
 
+// the function of the operations is read on a math addition 
 function displayAdditionQuestion(operand1, operand2) {
 
   document.getElementById("operand1").textContent = operand1;
   document.getElementById("operand2").textContent = operand2;
   document.getElementById("operator").textContent = "+";
-
 }
 
 

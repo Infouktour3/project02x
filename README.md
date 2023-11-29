@@ -87,7 +87,7 @@ W3C CSS Validator (/workspace/project02x/documents.jpg/documents.docx/Css Valida
  (https://jigsaw.w3.org/css-validator/validator  )
 
 W3C JS Markup Validator (documents.jpg/documents.docx/JS Validator.png)
- (https://codebeautify.org/jsvalidate)
+ (https://jshint.com/)
 
 
 The website was viewed on a variety of devices such as Desktop, Laptop, iPhone7, iPhone 8 & iPhoneX.
@@ -101,7 +101,7 @@ Go to the main repository
 Click setting
 Click the page tab on the left list
 Under branch select main
-Click save The website is now live and can be found here
+Click save The website is now live and can be found here (https://infouktour3.github.io/project02x/)
 
 Clone
 The website has been cloned in the GitHub platform from project02x to Bomb Quiz, following this steps:
