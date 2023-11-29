@@ -42,9 +42,6 @@ function runGame(gameType) {
 
   if (gameType === "addition") {
     displayAdditionQuestion(num1, num2);
-  } else {
-    alert(`Unknown game type ${gameType}`);
-    throw `Unknown game type ${gameType}, aborting!`;
   }
 
   stopCountdown();
@@ -52,7 +49,13 @@ function runGame(gameType) {
   settings.countDownDate = new Date() ;
   settings.countDownInterval = setInterval(countdownDateCalculate, 1000);
 }
+function disableBtn() {
+  document.getElementById("myBtn").disabled = true;
+}
 
+function enableBtn() {
+  document.getElementById("myBtn").disabled = false;
+}
 function countdownDateCalculate() {
   let currentDateTime = new Date().getTime();
   let differenceBetweenCurrentDate = settings.countDownDate - currentDateTime;
@@ -69,8 +72,8 @@ function countdownDateCalculate() {
 
   // BOOM
   if (secondsToDisplay <= 0) {
-    countdownHTML.innerHTML = '<span class="message">💣💣 Booom! 💣💣 Game Over - Reastart the Game<span>';
-  }
+    countdownHTML.innerHTML = '<span class="message">💣💣 Booom! 💣💣 Game Over - Restart the Game<span>';
+  disableBtn();}
 }
 
 function stopCountdown() {
@@ -141,13 +144,4 @@ function displayAdditionQuestion(operand1, operand2) {
 
 }
 
-document.getElementById("myBtn").disabled = true;
-var x = document.getElementById("myBtn").disabled;
 
-function disableBtn() {
-  document.getElementById("myBtn").disabled = true;
-}
-
-function enableBtn() {
-  document.getElementById("myBtn").disabled = false;
-}
