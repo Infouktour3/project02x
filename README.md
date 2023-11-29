@@ -77,13 +77,18 @@ I have tested the website on W3C Markup Validator, W3C CSS Validator  and JS Val
 It help to avoid any syntax errors. A lot of range of testing was done to ensure that all pages were linking correctly.
 The website has been deployed also trough GitHub for futher testiung.
 
-W3C Markup Validator
+W3C Index.html Markup Validator (documents.jpg/documents.docx/Index html Validator.png)
+ (https://validator.w3.org/nu/#textarea )
 
-W3C Markup Validator
+W3C Game.html Markup Validator  (/workspace/project02x/documents.jpg/documents.docx/game page validator.png)
+ (https://validator.w3.org/nu/#textarea )
 
-W3C Markup Validator
+W3C CSS Validator (/workspace/project02x/documents.jpg/documents.docx/Css Validator.png)
+ (https://jigsaw.w3.org/css-validator/validator  )
 
-W3C CSS Validator
+W3C JS Markup Validator (documents.jpg/documents.docx/JS Validator.png)
+ (https://codebeautify.org/jsvalidate)
+
 
 The website was viewed on a variety of devices such as Desktop, Laptop, iPhone7, iPhone 8 & iPhoneX.
 A large amount of testing was done to ensure that all pages were linking correctly.
