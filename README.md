@@ -77,10 +77,12 @@ jQuery find some information in bootstrap and in code istitue
 (https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+CSE101+2020_Q2/courseware/be0e510a3aca4bccb6e0bba4cf7cf06b/b47eaee24847486eb4424dfa29890cc0/)
 on use to have a responsive website for different devices. I have also used different source like youtube and W3school sites (https://www.w3schools.com/) to improve the responsiveness of the website.
 
-Testing
+### Testing
 I have tested the website on W3C Markup Validator, W3C CSS Validator  and JS Validator, the services were used to validate every page of html, css and js.
 It help to avoid any syntax errors. A lot of range of testing was done to ensure that all pages were linking correctly.
 The website has been deployed also trough GitHub for futher testiung.
+
+![W3C Markup Validator](docs/HomePage-Validator.png)
 
 W3C Index.html Markup Validator (documents.jpg/documents.docx/Index html Validator.png)
  (https://validator.w3.org/nu/#textarea )
@@ -99,7 +101,7 @@ The website was viewed on a variety of devices such as Desktop, Laptop, iPhone7,
 A large amount of testing was done to ensure that all pages were linking correctly.
 Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
 
-Deploying
+### Deploying
 The website has be deployed on git hub pages by complete the following steps:
 
 Go to the main repository
@@ -108,7 +110,7 @@ Click the page tab on the left list
 Under branch select main
 Click save The website is now live and can be found here (https://infouktour3.github.io/project02x/)
 
-Clone
+### Clone
 The website has been cloned in the GitHub platform from project02x to Bomb Quiz, following this steps:
 
 Git-Hub home-page
@@ -125,10 +127,10 @@ press enter. Cloning into
 remote: Compressing objects: 100% (564/564), done. remove: Total 524 (delta 263), reused 497 (delta 236),
 pack-reused 0 Receiving objects: 100% (524/524), 22.37 MiB | 14.39 MiB/s, done. Resolving deltas: 100% (263/263), done. (to check)
 
-Code
+### Code
 html, css and js codes were written through github (https://infouktour3-project02x-jcvf6bkqof7.ws-eu106.gitpod.io/) workspace/repositories
 
-Content
+### Content
 All content was written by myself.
 
 Media/Images
