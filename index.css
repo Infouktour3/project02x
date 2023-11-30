@@ -118,36 +118,38 @@ left: -0.5em;
 }
 
 
-.btn--orange {
-  color: rgb(0, 47, 255);
-  background-color: yellow;
-  border-radius: 20px;
-}
-
-.btn--orange:active,
-.btn--orange:hover {
-  background-color: orange;
-  color: rgb(189, 181, 181);
-}
-
-
-.btn--green:active,
-.btn--green:hover {
-  background-color: rgb(100, 45, 0);
-  color: white;
-}
-
 .btn--green {
+  font-weight: 200, bold;
+  font-size: 20px;
+  font-family: 'Times New Roman', Times, serif;
+  color: rgb(230, 23, 51);
   background-color: orange;
-  border-color: red;
-  margin-top: 25px;
-  color: rgb(80, 73, 70);
   border-radius: 20px;
 }
 
 .btn--green:active,
 .btn--green:hover {
-  background-color: #0d1013;
+  background-color: greenyellow;
+  
+}
+
+
+.new-bottom {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+  background-color: yellow;
+  border-color: red;
+  border-style:double;
+  border-block-end-style: 5cm;
+  margin-top: 45px;
+  color:red;
+  border-bottom: dodgerblue;
+  border-radius: 0px;
+}
+
+.new-bottom:active,
+.new-bottom:hover {
+  background-color: greenyellow;
 }
 
 /* --------- Media queries */
