@@ -130,14 +130,14 @@ Receiving objects: 100% (160/160), 1.86 MiB | 20.25 MiB/s, done.
 Resolving deltas: 100% (81/81), done. (to check)
 
 ### Code
-html, css and js codes were written through github (https://infouktour3-project02x-jcvf6bkqof7.ws-eu106.gitpod.io/) workspace/repositories
+html, css and js codes were written through github (https://infouktour3.github.io/project02x/) workspace/repositories
 
 ### Content
 All content was written by myself.
 
-Media/Images
+#### Media/Images
 Used font awesome to add icons to the title and on the countdown row line, to make more ahestetic the design (https://fontawesome.com/icons). 
-imageimage image image imageimage imageimageimageimageimageimageimage imageimage image
 
-Acknowledgements
+
+#### Acknowledgements
 To the tutor support at Code Institute, Mentor and Slack mates.
