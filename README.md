@@ -83,21 +83,18 @@ jQuery find some information in bootstrap and in code istitue on use to have a r
 ### Testing
 I have tested the website on W3C Markup Validator, W3C CSS Validator  and JS Validator, the services were used to validate every page of html, css and js. It helps to avoid any syntax errors. A lot of range of testing was done to ensure that all pages were linking correctly.The website has been deployed also trough GitHub for futher testiung. I tested also in Techsini to see a proper responsive designs for alld devices.
 
-![W3C Markup Validator](images/index valiator html.png)((https://validator.w3.org/nu/#textarea))
+ ![W3C Markup Validator](images/indexHtmlvaliatorl.png)
 
-![W3C Game html Markup Validator] (images/game html validator.png)
- (https://validator.w3.org/nu/#textarea)
+ ![W3C Markup Validator](images/gameHtmlvalidator.png)
+ 
+ ![W3C CSS Validator](images/CssValidator.png)
 
-![W3C CSS Validator] (images/Css Validator.png)
- (https://jigsaw.w3.org/css-validator/validator  )
-
-![jshint.com](images/JS Validator scr.png)
- (https://jshint.com/)
-
-[Multi Device Website Mockup Generator](https://techsini.com/multi-mockup/index.php)(images/mokup1.png)(images/mokup.png)
+ ![jshint.com](images/JSValidator.png)
+ 
+ [Multi Device Website Mockup Generator](images/mokup.png)(images/mokup1.png)
 
 The website was viewed on a variety of devices such as Desktop, Laptop, iPhone7, iPhone 8 & iPhoneX.
-A large amount of testing was done to ensure that all pages were linking correctly.
+A large amount of testing was done to ensure that all pages were linking correctly on Techsini website [view]((https://techsini.com/multi-mockup/index.php)).
 Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
 
 ### Deploying
