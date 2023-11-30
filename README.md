@@ -38,6 +38,9 @@ even when the web site is used with different devices.
 #### Imagery
 The first image is posted just straight at the top of the page with the title name of the game to catch the visitors attention and transmit to keep user attention.
 
+[image](images/Screenshot website.png)
+
+
 #### Wireframes
 -Home Page with Second Page once clicked Wireframe - [View](images/Wireframe.png)
 
@@ -58,44 +61,40 @@ CSS3
 JS
 
 #### Frameworks, Libraries & Programs Used
-[Bootstrap v5.3] (https://getbootstrap.com/)
+1) [Bootstrap v5.3] (https://getbootstrap.com/)
 Bootstrap has been visited to assist me with the idea to create a responsiveness webssite and it help me a bit but I used at the end a word file. 
-[Frameworks] (https://github.com/Infouktour3/project02x)
+[Frameworks] (https://infouktour3-project02x-w7gubda7n57.ws-eu106.gitpod.io/)
 
-Hover.css was used for the two  bottoms added on the game page to be visible their function and helping to drive the user on using properly the game.
+2) [Hover.css:] [view](index.css) (https://github.com/)
+Hovercss was used for the two  bottoms added on the game page to be visible their function and helping to drive the user on using properly the game.
 
-Font Awesome:
-Font Awesome was used on the first and second page page of the site to decorate the Title and make it intuitive for the game ahead,
-which the icons help also the aesthetic of the site and UX purposes.
+3) [Font Awesome:](https://fontawesome.com/icons/bomb?f=classic&s=solid)
+Font Awesome was used on the first and second page page of the site to decorate the Title and make it intuitive for the game ahead, which the icons help also the aesthetic of the site and UX purposes.
 
+4)  [Git](https://infouktour3-project02x-yru3ukoln2m.ws-eu106.gitpod.io/)
 GitHub has been used to store the projects code, after being added and pushed from Gitpod and workspace. Plus to cloen and deploy my project.
 
+5) [Balsamiq:](https://balsamiq.com/)
 Balsamiq was visited to gather some idea on starting the design process even if I used my imagination at the end and created it with a word file and coverted in pjg.
 
-jQuery:
-jQuery find some information in bootstrap and in code istitue
-(https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+CSE101+2020_Q2/courseware/be0e510a3aca4bccb6e0bba4cf7cf06b/b47eaee24847486eb4424dfa29890cc0/)
-on use to have a responsive website for different devices. I have also used different source like youtube and W3school sites (https://www.w3schools.com/) to improve the responsiveness of the website.
+6)  [jQuery:](https://getbootstrap.com/docs/4.5/getting-started/introduction/)(https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+CSE101+2020_Q2/courseware/be0e510a3aca4bccb6e0bba4cf7cf06b/b47eaee24847486eb4424dfa29890cc0/)
+jQuery find some information in bootstrap and in code istitue on use to have a responsive website for different devices. I have also used different source like youtube and W3school sites [view] (https://www.w3schools.com/) to improve the responsiveness of the website.
 
 ### Testing
-I have tested the website on W3C Markup Validator, W3C CSS Validator  and JS Validator, the services were used to validate every page of html, css and js.
-It help to avoid any syntax errors. A lot of range of testing was done to ensure that all pages were linking correctly.
-The website has been deployed also trough GitHub for futher testiung.
+I have tested the website on W3C Markup Validator, W3C CSS Validator  and JS Validator, the services were used to validate every page of html, css and js. It helps to avoid any syntax errors. A lot of range of testing was done to ensure that all pages were linking correctly.The website has been deployed also trough GitHub for futher testiung. I tested also in Techsini to see a proper responsive designs for alld devices.
 
-![W3C Markup Validator](docs/HomePage-Validator.png)
+![W3C Markup Validator](images/index valiator html.png)((https://validator.w3.org/nu/#textarea))
 
-W3C Index.html Markup Validator (documents.jpg/documents.docx/Index html Validator.png)
- (https://validator.w3.org/nu/#textarea )
+![W3C Game html Markup Validator] (images/game html validator.png)
+ (https://validator.w3.org/nu/#textarea)
 
-W3C Game.html Markup Validator  (/workspace/project02x/documents.jpg/documents.docx/game page validator.png)
- (https://validator.w3.org/nu/#textarea )
-
-W3C CSS Validator (/workspace/project02x/documents.jpg/documents.docx/Css Validator.png)
+![W3C CSS Validator] (images/Css Validator.png)
  (https://jigsaw.w3.org/css-validator/validator  )
 
-W3C JS Markup Validator (documents.jpg/documents.docx/JS Validator.png)
+![jshint.com](images/JS Validator scr.png)
  (https://jshint.com/)
 
+[Multi Device Website Mockup Generator](https://techsini.com/multi-mockup/index.php)(images/mokup1.png)(images/mokup.png)
 
 The website was viewed on a variety of devices such as Desktop, Laptop, iPhone7, iPhone 8 & iPhoneX.
 A large amount of testing was done to ensure that all pages were linking correctly.
@@ -120,7 +119,7 @@ Click Local
 Copy repository
 Open Git-Bash
 Change the current working directory to the location where you want the cloned directory.
-Type git clone, and then paste the URL you copied (https://github.com/Infouktour3/Fab-Beauty.git). git clone https://github.com/YOUR-USERNAME/YOUR-
+Type git clone, and then paste the URL you copied (https://github.com/Infouktour3/project02x.git). git clone https://github.com/YOUR-USERNAME/YOUR-
 press enter. Cloning into 
 
 ... remote: Enumerating objects: 524, done. remote: Counting objects: 100% (524/524), done.
