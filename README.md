@@ -1,7 +1,7 @@
 # BOMB QUIZ
 
-![mock-up](images/mokup.png)
-![mock-up](images/mokup1.png)
+![mock-up](assets/images/mokup.png)
+![mock-up](assets/images/mokup1.png)
 
 
 [View the live project here.](https://infouktour3.github.io/project02x/)
@@ -13,7 +13,7 @@ This is the main Bomb Quiz website. It is designed to be responsibe on a range o
 
 ### User stories
 Looked into Balsamiq to have an idea and after I have carried on the prject with word file converted in pjg image/
-[image](images/Wireframe.png)[docs](docs/WIREFRAME-WEBSITE.docx)
+[image](assets/images/Wireframe.png)[docs](docs/WIREFRAME-WEBSITE.docx)
 
 #### First Time Visitor Goals
 1) The website is made in a very clear and easy way to understand the game with a great background colour to show the other function of the game in a fast and intuitive way
@@ -39,11 +39,11 @@ even when the web site is used with different devices.
 #### Imagery
 The first image is posted just straight at the top of the page with the title name of the game to catch the visitors attention and transmit to keep user attention.
 
-[image](images/Screenshot website.png)
+[image](assets/images/Screenshotwebsite.png)
 
 
 #### Wireframes
--Home Page with Second Page once clicked Wireframe - [View](images/Wireframe.png)
+-Home Page with Second Page once clicked Wireframe - [image](assets/images/Wireframe.png)
 
 #### Features
 The website has an actractive approach for the user, 
@@ -62,16 +62,17 @@ JS
 
 #### Frameworks, Libraries & Programs Used
 1) [Bootstrap v5.3](https://getbootstrap.com/)
-Bootstrap has been visited to assist me with the idea to create a responsiveness webssite and it help me a bit but I used at the end a word file. 
+Bootstrap has been visited to assist me with the idea to create a responsiveness webssite and it help me to
+create a design inside a word file. [view](docs/WIREFRAME-WEBSITE.docx)
 [Frameworks](https://infouktour3-project02x-w7gubda7n57.ws-eu106.gitpod.io/)
 
 2) [Hover.css:] [view](index.css) [view](https://github.com/)
 Hovercss was used for the two  bottoms added on the game page to be visible their function and helping to drive the user on using properly the game.
 
-3) [Font Awesome:]((https://fontawesome.com/icons))
+3) [Font Awesome:](https://fontawesome.com/icons)
 Font Awesome was used on the first and second page page of the site to decorate the Title and make it intuitive for the game ahead, which the icons help also the aesthetic of the site and UX purposes.
 
-4)  [Git](https://infouktour3-project02x-yru3ukoln2m.ws-eu106.gitpod.io/)
+4) [Git](https://infouktour3-project02x-yru3ukoln2m.ws-eu106.gitpod.io/)
 GitHub has been used to store the projects code, after being added and pushed from Gitpod and workspace. Plus to cloen and deploy my project.
 
 5) [Balsamiq:](https://balsamiq.com/)
@@ -83,16 +84,16 @@ jQuery find some information in bootstrap and in code istitue on use to have a r
 ### Testing
 I have tested the website on W3C Markup Validator, W3C CSS Validator  and JS Validator, the services were used to validate every page of html, css and js. It helps to avoid any syntax errors. A lot of range of testing was done to ensure that all pages were linking correctly.The website has been deployed also trough GitHub for futher testiung. I tested also in Techsini to see a proper responsive designs for alld devices.
 
- ![W3C Markup Validator](images/indexHtmlvaliatorl.png)
+ ![W3C Markup Validator](assets/images/indexHtmlvaliatorl.png)
 
- ![W3C Markup Validator](images/gameHtmlvalidator.png)
+ ![W3C Markup Validator](assets/images/gameHtmlvalidator.png)
  
- ![W3C CSS Validator](images/CssValidator.png)
+ ![W3C CSS Validator](assets/images/CssValidator.png)
 
- ![jshint.com](images/JSValidator.png)
+ ![jshint.com](assets/images/JSValidator.png)
  
- [Multi Device Website Mockup Generator](images/mokup.png)
- [Multi Device Website Mockup Generator](images/mokup1.png)
+ [Multi Device Website Mockup Generator](assets/images/mokup.png)
+ [Multi Device Website Mockup Generator](assets/images/mokup1.png)
 
 The website was viewed on a variety of devices such as Desktop, Laptop, iPhone7, iPhone 8 & iPhoneX.
 A large amount of testing was done to ensure that all pages were linking correctly on Techsini website [view](https://techsini.com/multi-mockup/index.php).
@@ -116,8 +117,8 @@ At the top left side click on <>Code
 Click Local
 Copy repository
 Open Git-Bash
-Change the current working directory to the location where you want the cloned directory.
-Type git clone, and then paste the URL you copied [view](https://github.com/Infouktour3/project02x.git). git clone https://github.com/Infouktour3/project02x
+Changed the current working directory to the location where you want the cloned directory.
+Typed git clone, and then paste the URL you copied [view](https://github.com/Infouktour3/project02x.git). git clone https://github.com/Infouktour3/project02x
 press enter. Cloning into 
 
 ... remote: Enumerating objects: 160, done. 
@@ -128,13 +129,13 @@ Receiving objects: 100% (160/160), 1.86 MiB | 20.25 MiB/s, done.
 Resolving deltas: 100% (81/81), done. (to check)
 
 ### Code
-html, css and js codes were written through github [view](https://infouktour3.github.io/project02x/) workspace/repositories
+html, css and js codes were written through github [view](https://infouktour3-project02x-w7gubda7n57.ws-eu106.gitpod.io/) workspace and repositories.
 
 ### Content
 All content was written by myself.
 
 #### Media/Images
-Used few icons from font awesome to add at the title and on the countdown row line, to make more ahestetic the design [view](https://fontawesome.com/icons). 
+Used few icons from font awesome to add at the title and on the countdown row line, to make more ahestetic the design [view](https://fontawesome.com/icons), using a great css code to help on filing the window. 
 
 
 #### Acknowledgements
