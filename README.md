@@ -119,12 +119,15 @@ Click Local
 Copy repository
 Open Git-Bash
 Change the current working directory to the location where you want the cloned directory.
-Type git clone, and then paste the URL you copied (https://github.com/Infouktour3/project02x.git). git clone https://github.com/YOUR-USERNAME/YOUR-
+Type git clone, and then paste the URL you copied (https://github.com/Infouktour3/project02x.git). git clone https://github.com/Infouktour3/project02x
 press enter. Cloning into 
 
-... remote: Enumerating objects: 524, done. remote: Counting objects: 100% (524/524), done.
-remote: Compressing objects: 100% (564/564), done. remove: Total 524 (delta 263), reused 497 (delta 236),
-pack-reused 0 Receiving objects: 100% (524/524), 22.37 MiB | 14.39 MiB/s, done. Resolving deltas: 100% (263/263), done. (to check)
+... remote: Enumerating objects: 160, done. 
+remote: Counting objects: 100% (160/160), done.
+remote: Compressing objects: 100% (109/109), done. 
+remove: Total 160 (delta 81), reused 121 (delta 43),pack-reused 0
+Receiving objects: 100% (160/160), 1.86 MiB | 20.25 MiB/s, done.
+Resolving deltas: 100% (81/81), done. (to check)
 
 ### Code
 html, css and js codes were written through github (https://infouktour3-project02x-jcvf6bkqof7.ws-eu106.gitpod.io/) workspace/repositories
