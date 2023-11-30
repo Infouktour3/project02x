@@ -45,7 +45,7 @@ body {
 }
 
 #score {
-  color: green;
+  color: rgb(126, 177, 85);
   font-weight: bold;
 }
 
@@ -73,7 +73,7 @@ body {
   padding: 10px;
 }
 
-/* --------- Buttons */
+/* --------- Buttoms */
 
 .btn {
   width: 220px;
@@ -119,8 +119,7 @@ left: -0.5em;
 
 
 .btn--green {
-  font-weight: 200, bold;
-  font-size: 20px;
+  
   font-family: 'Times New Roman', Times, serif;
   color: rgb(230, 71, 23);
   background-color: orange;
@@ -219,7 +218,7 @@ rgba(231, 227, 19, 0.719);
       margin: 10px 10px;
   }
   .question-area {
-      padding: 10px 0;    }}
+      padding: 10px 0;  }}}
 
 #countdown {
   font-size: 20px;
@@ -230,22 +229,22 @@ rgba(231, 227, 19, 0.719);
 }
 
 #curentCountdown[value="5"] {
-  color: black
+  color: black;
 }
 
 #curentCountdown[value="4"] {
-  color: black
+  color: black;
 }
 
 #curentCountdown[value="3"] {
-  color: red
+  color: red;
 }
 
 #curentCountdown[value="2"] {
-  color: red
+  color: red;
 }
 
 #curentCountdown[value="1"] {
-  color: red
+  color: red;
 }
 
