@@ -1,60 +1,65 @@
-# project02x
-BOMB QUIZ
-View the live project here. (https://8000-infouktour3-project02x-mwfb73gx0ws.ws-eu106.gitpod.io/game.html)
+# BOMB QUIZ
 
-This is the main Bomb Math  website. It is designed to be responsibe on a range of devices, making it easy to use the game for the reader and visitors.
+![mock-up](images/mokup.png)(images/mokup1.png)
 
-User Experience (UX)
-User stories
-Looked into Balsamiq to have an idea and after I have carried on the prject with word file converted in pjg image xxx
 
-First Time Visitor Goals
-The website is made in a very clear and easy way to understand the game with a great background colour to show the other function of the game in a fast and intuitive way..
-The User will be able to easily explore the page and read the number result and bottom instruction to play the game throughout the site, 
-the visitor can decide when to start to play and when restart a game again.
+[View the live project here.](https://infouktour3.github.io/project02x/)
 
-Returning Visitor Goals
-Returning Visitor wants to find a good game to be entertained something that keep their attention and excitment high which in turn the site is made to enjoy the user.
-Returning Visitor like to see something simple and understand the game at the first glance, 
-they do not want to be bored on understanding how work the game otherwise they will give up, and it helps the visitor to return again.
+This is the main Bomb Quiz website. It is designed to be responsibe on a range of devices, making it easy and intuitive to understand the use of the game for the reader and visitors.
 
-Frequent User Goals
-The user want something fun and colourful with some images that help to get to know the game without reading long information.
-The predominate colour is a dark yellow background colour with a great contrast with the title colour and the bottoms indication in which passing the cursor on make it change the colour 
- with a great effect and intuition that the bottom is clickable, in turn make the site more attractive expacially with fonts images showed on the screen.
+
+## User Experience (UX)
+
+### User stories
+Looked into Balsamiq to have an idea and after I have carried on the prject with word file converted in pjg image/
+[image](images/Wireframe.png)[docs](docs/WIREFRAME WEBSITE.docx)
+
+#### First Time Visitor Goals
+1) The website is made in a very clear and easy way to understand the game with a great background colour to show the other function of the game in a fast and intuitive way
+2) The User will be able to easily explore the page and read the number result at the botton answers marked to play the game throughout the site. 
+3) The visitor can decide when to start to play and when restart a game again just pressing the uperlink words.
+
+##### Returning Visitor Goals
+1) Returning Visitor wants to find a good game to be entertained something that keep their attention and excitment high which in return the site is made to enjoy the final user.
+2) Returning Visitor like to see something simple and understand the game at the first glance, 
+they do not want to be bored on understanding how work the game otherwise they will give up and it helps the visitor to return again.
+3) The game is made with a great graphic and good contrast colour help to enjoy the user moment at the same time to make retun them.
+
+#### Frequent User Goals / design colour scheme
+1) The user want something fun and colourful with some images that help to get to know the game without reading long information.
+2) The predominate colour is a dark yellow background colour with a great contrast with the title colour and the bottoms indication in which passing the cursor on make it change the colour 
+ with a great effect and intuition that the bottom which is clickable.
+3) In turn make the site more attractive expacially with fonts images showed on the screen.
  
-Typography
+#### Typography
 The font used on the website is a Raleway - Sans Serif  as it is one of the most common font used today the font is cleaned is shows good read letters for all reader, 
 even when the web site is used with different devices.
 
-Imagery
-The first image is posted just straight at the top of the page with the title name of the game to catch the visitors attention and transmit to the user the attention.
+#### Imagery
+The first image is posted just straight at the top of the page with the title name of the game to catch the visitors attention and transmit to keep user attention.
 
-Wireframes
-Home Page Wireframe - View
-Game Page Wireframe - View
+#### Wireframes
+-Home Page with Second Page once clicked Wireframe - [View](images/Wireframe.png)
 
-Features
+#### Features
 The website has an actractive approach for the user, 
 easy to understand and very intuitive with images and iconas to driver the visitor attention and clearly help to understand the business without that the user gets lost, 
 the first page contain the link interactive clickable to pass to a new  page where they can start to play.
 The game  page also is comprensive of box and bottoms  and with an indicator answer underneath of the bottoms to make more appeal to the visitor whcih they want to test themself. 
-At the srat of the game, wil appear the countdown where the user will have a limited time to answer the right question, 
-the two text written under the bottome give to them an indication if they have answered correctly, gathering and showing number on the right or wrong answer,
-it help to facilitate the user their progress. 
-The website has also the features to be responsive on all device sizes and contain interactive elements like hyperlinks.and bottoms.
+At the srat of the game, wil appear the countdown where the user will have a limited time to answer the right question, the two text written under the bottome give to them an indication if they have answered correctly, gathering and showing number on the right or wrong answer, it help to facilitate the user their progress. 
+The website has also the features to be responsive on all device sizes and contain interactive elements like hyperlinks and bottoms.
 
-Technologies Used
+### Technologies Used
 Laptop
 
-Languages Used
+### Languages Used
 HTML5
 CSS3
 JS
 
-Frameworks, Libraries & Programs Used
+#### Frameworks, Libraries & Programs Used
 [Bootstrap v5.3] (https://getbootstrap.com/)
-Bootstrap has been visited to assist me with the idea to create a responsiveness webssite and it help me a bit but I used at the end a word file attached on github. 
+Bootstrap has been visited to assist me with the idea to create a responsiveness webssite and it help me a bit but I used at the end a word file. 
 [Frameworks] (https://github.com/Infouktour3/project02x)
 
 Hover.css was used for the two  bottoms added on the game page to be visible their function and helping to drive the user on using properly the game.
