@@ -68,7 +68,7 @@ Bootstrap has been visited to assist me with the idea to create a responsiveness
 2) [Hover.css:] [view](index.css) [view](https://github.com/)
 Hovercss was used for the two  bottoms added on the game page to be visible their function and helping to drive the user on using properly the game.
 
-3) [Font Awesome:](https://fontawesome.com/icons/bomb?f=classic&s=solid)
+3) [Font Awesome:]((https://fontawesome.com/icons))
 Font Awesome was used on the first and second page page of the site to decorate the Title and make it intuitive for the game ahead, which the icons help also the aesthetic of the site and UX purposes.
 
 4)  [Git](https://infouktour3-project02x-yru3ukoln2m.ws-eu106.gitpod.io/)
