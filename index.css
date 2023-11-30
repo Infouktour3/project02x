@@ -122,35 +122,31 @@ left: -0.5em;
   font-weight: 200, bold;
   font-size: 20px;
   font-family: 'Times New Roman', Times, serif;
-  color: rgb(230, 23, 51);
+  color: rgb(230, 71, 23);
   background-color: orange;
   border-radius: 20px;
 }
 
 .btn--green:active,
 .btn--green:hover {
-  background-color: greenyellow;
+  background-color: 
+rgba(231, 227, 19, 0.719);
   
 }
-
 
 .new-bottom {
   font-family: 'Times New Roman', Times, serif;
   font-size: 20px;
-  background-color: yellow;
-  border-color: red;
-  border-style:double;
+  
   border-block-end-style: 5cm;
   margin-top: 45px;
-  color:red;
-  border-bottom: dodgerblue;
+  color:rgb(23, 61, 230);
   border-radius: 0px;
 }
 
 .new-bottom:active,
 .new-bottom:hover {
-  background-color: greenyellow;
-}
+  background-color: lightpink;
 
 /* --------- Media queries */
 
