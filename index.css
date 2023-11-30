@@ -10,7 +10,7 @@ body {
 
 .heading {
   text-align: center;
-  font-size: 4rem;
+  font-size: 3.5rem;
   padding-top: 20px;
 }
 
@@ -24,7 +24,7 @@ body {
  
 .question-area {
   width: 50%;
-  font-size: 2rem;
+  font-size: 1rem;
   margin: auto;
   padding: 50px 0;
 }
@@ -200,13 +200,13 @@ rgba(231, 227, 19, 0.719);
   }
 
   .heading {
-      font-size: 2rem;
+      font-size: 1rem;
   }
 }
 
 @media (max-width: 320px) {
   .game-area {
-      height: 70vh;
+      height: auto;
   }
 
   .controls-area {
@@ -218,7 +218,7 @@ rgba(231, 227, 19, 0.719);
       margin: 10px 10px;
   }
   .question-area {
-      padding: 10px 0;  }}}
+      padding: 5px 0;  }}}
 
 #countdown {
   font-size: 20px;
