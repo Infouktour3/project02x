@@ -69,7 +69,7 @@ create a design inside a word file. [view](docs/WIREFRAME-WEBSITE.docx)
 2) [Hover.css:] [view](index.css) [view](https://github.com/)
 Hovercss was used for the two  bottoms added on the game page to be visible their function and helping to drive the user on using properly the game.
 
-3) [Font Awesome:](https://fontawesome.com/icons)
+3) [Font Awesome:](https://fontawesome.com)
 Font Awesome was used on the first and second page page of the site to decorate the Title and make it intuitive for the game ahead, which the icons help also the aesthetic of the site and UX purposes.
 
 4) [Git](https://infouktour3-project02x-yru3ukoln2m.ws-eu106.gitpod.io/)
@@ -135,7 +135,7 @@ html, css and js codes were written through github [view](https://infouktour3-pr
 All content was written by myself.
 
 #### Media/Images
-Used few icons from font awesome to add at the title and on the countdown row line, to make more ahestetic the design [view](https://fontawesome.com/icons), using a great css code to help on filing the window. 
+Used few icons from font awesome to add at the title and on the countdown row line, to make more ahestetic the design [view](https://fontawesome.com), using a great css code to help on filing the window. 
 
 
 #### Acknowledgements
