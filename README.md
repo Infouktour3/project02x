@@ -99,7 +99,8 @@ I have tested the website on W3C Markup Validator, W3C CSS Validator  and JS Val
 
 # Responsiveness 
 Checked into google tool inspect where show clear it works on the following devices
- [view](Tested across various devices using Google Dev Tools and real world devices for responsiveness and expected look and layout.)
+
+ [image](assets/images/testedDevices.png)
 
 
 The website was viewed on a variety of devices such as Desktop, Laptop, iPhone7, iPhone 8 & iPhoneX.
