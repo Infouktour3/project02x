@@ -33,24 +33,21 @@ they do not want to be bored on understanding how work the game otherwise they w
 3) In turn make the site more attractive expacially with fonts images showed on the screen.
  
 #### Typography
-The font used on the website is a Raleway - Sans Serif  as it is one of the most common font used today the font is cleaned is shows good read letters for all reader, 
+The font used on the website is a Raleway - Sans Serif  as it is one of the most common font used today the font is cleaned is shows good read letters for all readers, 
 even when the web site is used with different devices.
 
 #### Imagery
-The first image is posted just straight at the top of the page with the title name of the game to catch the visitors attention and transmit to keep user attention.
-
-[image](assets/images/Screenshot.website.png)
+The first image is posted just straight at the top of the page close to the title name of the game to catch the visitors attention and to transmit user attention. I have added othe emojis on the second pages and when the countdwon termines it shows other emojis to make understand the game is over.
+[image](https://www.w3schools.com/charsets/tryit.asp?deci=128163)
 
 
 #### Wireframes
 -Home Page with Second Page once clicked Wireframe - [image](assets/images/Wireframe.png)
 
 #### Features
-The website has an actractive approach for the user, 
-easy to understand and very intuitive with images and iconas to driver the visitor attention and clearly help to understand the game without that the user gets lost, 
-the first page contain the link interactive clickable to pass to a new  page where they can start to play, there is an hyperlink .
-The game  page also is comprensive of box and bottoms  and with an indicator answer underneath of the bottoms to make more appeal to the visitor whcih they want to test themself. 
-At the srat of the game, wil appear the countdown where the user will have a limited time to answer the right question, the two text written under the bottome give to them an indication if they have answered correctly, gathering and showing number on the right or wrong answer, it help to facilitate the user their progress. The website has also the features to be responsive on all device sizes and contain interactive elements like hyperlinks and bottoms.
+The website has an actractive approach for the user, easy to understand and very intuitive with a good colour graphic and emojis to driver the visitor attention and clearly help to understand the game without that the user gets lost. In the first page contain the link interactive clickable to pass to a new  page where they can start to play, there is an hyperlink named "click here", so when the user click on the words phrase, it take to the user at the game page with more characteristic objects as bottoms, boxes and correct answer and inconrect one scored.
+When the user is in the game page, the countdown start to beginning, there will be a limited time to answer the right questions, it starts with a 16 second and countdwon until reach zero, the user also is alert when is near to zero by  seeing the change red colour numbers around number 3 until zero. The game  page is also comprensive of interactive box and bottoms, the box is showed to insert the right answer in after the user decided that it could be a good answer, once the user insert his answer need to press the bottom submit to confirm his choice it will change the color when the curse is ove rthe bottom to help the user understand that it is clickable. If the answer is correct it will show underneath the bottom, the two textes written under the bottome give to them an indication if they have answered correctly, it shows the score answered, one correct and one incorrect in this case if the user aswer correctly will show a number scored on the right phrase, if he will spot on the correct answers more often the scores will increase, if it is incorect answer will go to the inconrect score the same, more are incorects and more the number will increase. Instead if the user no answer on time and the time will reach zero, he won't be able to answer anymore and the submit bottom will be disactivated, to restart the game again the user need to click the hyperlink where is written "Restart Game", automaticlly it will take the user at the first page of the game where will be ask again to clik the link to start the game.  
+The website has also the features to be responsive on all device sizes and contain interactive elements like hyperlinks and bottoms where the user can use the game even on his mobile phone or tablet at his convenient.
 
 ### Technologies Used
 Laptop
@@ -62,15 +59,14 @@ JS
 
 #### Frameworks, Libraries & Programs Used
 1) [Bootstrap v5.3](https://getbootstrap.com/)
-Bootstrap has been visited to assist me with the idea to create a responsiveness webssite and it help me to
-create a design inside a word file. [view](docs/WIREFRAME-WEBSITE.docx)
+Bootstrap has been visited to assist me with the idea to create a responsiveness webssite and it help me to create a design inside a word file. [view](docs/WIREFRAME-WEBSITE.docx)
 [Frameworks](https://infouktour3-project02x-w7gubda7n57.ws-eu106.gitpod.io/)
 
 2) [Hover.css:] [view](index.css) [view](https://github.com/)
-Hovercss was used for the two  bottoms added on the game page to be visible their function and helping to drive the user on using properly the game.
+Hover css was used for the bottom and hyperlink writing, where have be added on the game page to be visible their function and helping to drive the user on using properly the game.
 
-3) [Font Awesome:](https://fontawesome.com)
-Font Awesome was used on the first and second page page of the site to decorate the Title and make it intuitive for the game ahead, which the icons help also the aesthetic of the site and UX purposes.
+3) [W3Schools:](https://www.w3schools.com/charsets/tryit.asp?deci=128163)
+W3Schools was used on the first and second page of the site to decorate the Title and make it intuitive for the game ahead plus on the time run out, the small image will be showed to the user, the emojis help also the aesthetic of the site and UX purposes.
 
 4) [Git](https://infouktour3-project02x-yru3ukoln2m.ws-eu106.gitpod.io/)
 GitHub has been used to store the projects code, after being added and pushed from Gitpod and workspace. Plus to cloen and deploy my project.
