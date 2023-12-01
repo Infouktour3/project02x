@@ -47,8 +47,8 @@ The first image is posted just straight at the top of the page with the title na
 
 #### Features
 The website has an actractive approach for the user, 
-easy to understand and very intuitive with images and iconas to driver the visitor attention and clearly help to understand the business without that the user gets lost, 
-the first page contain the link interactive clickable to pass to a new  page where they can start to play.
+easy to understand and very intuitive with images and iconas to driver the visitor attention and clearly help to understand the game without that the user gets lost, 
+the first page contain the link interactive clickable to pass to a new  page where they can start to play, there is an hyperlink .
 The game  page also is comprensive of box and bottoms  and with an indicator answer underneath of the bottoms to make more appeal to the visitor whcih they want to test themself. 
 At the srat of the game, wil appear the countdown where the user will have a limited time to answer the right question, the two text written under the bottome give to them an indication if they have answered correctly, gathering and showing number on the right or wrong answer, it help to facilitate the user their progress. The website has also the features to be responsive on all device sizes and contain interactive elements like hyperlinks and bottoms.
 
@@ -135,7 +135,7 @@ html, css and js codes were written through github [view](https://infouktour3-pr
 All content was written by myself.
 
 #### Media/Images
-Used few icons from font awesome to add at the title and on the countdown row line, to make more ahestetic the design [view](https://fontawesome.com), using a great css code to help on filing the window. 
+I Used few emojis to add at the title and on the countdown row line when the time will be termined it will show, to make more ahestetic the design [view](https://www.w3schools.com/html/html_emojis.asp), the style and the colour of the pages insted has been created with css code. 
 
 
 #### Acknowledgements
