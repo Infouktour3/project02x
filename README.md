@@ -39,7 +39,7 @@ even when the web site is used with different devices.
 #### Imagery
 The first image is posted just straight at the top of the page with the title name of the game to catch the visitors attention and transmit to keep user attention.
 
-[image](assets/images/Screenshotwebsite.png)
+[image](assets/images/Screenshot.website.png)
 
 
 #### Wireframes
